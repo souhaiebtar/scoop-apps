@@ -16,6 +16,7 @@
             }
         }
     },
+    "extract_dir": "ecode",
     "architecture": {
         "64bit": {
             "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.7.1/ecode-windows-0.7.1-x86_64.zip",
