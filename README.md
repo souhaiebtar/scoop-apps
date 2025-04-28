@@ -31,7 +31,7 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add souhaiebtar_scoop-apps https://github.com/souhaiebtar/scoop-apps
-scoop install <bucketname>/<manifestname>
+scoop install souhaiebtar_scoop-apps/<manifestname>
 ```
 
 ## How do I contribute new manifests?
