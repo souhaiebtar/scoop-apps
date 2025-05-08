@@ -1,0 +1,10 @@
+{
+    "version": "0.2.8",
+    "description": "Fast file manager based on Rust",
+    "homepage": "https://filepilot.tech/",
+    "license": "Proprietary",
+    "url": "https://github.com/souhaiebtar/scoop-apps/releases/download/v1.0/File-Pilot.zip",
+    "hash": "5FCF114DE737A9F97777E45166E9E7B639E6EBB13B4223E45F053C0F48EAEFE8",
+    "bin": "FPilot.exe",
+    "shortcuts": [["FPilot.exe", "FilePilot", "File Pilot"]]
+}
