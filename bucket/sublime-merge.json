@@ -1,5 +1,5 @@
 {
-    "version": "2102",
+    "version": "2083",
     "description": "A Git client with snappy UI, three-way merge tool, side-by-side diffs, syntax highlighting, and more.",
     "homepage": "https://www.sublimemerge.com/",
     "license": {
